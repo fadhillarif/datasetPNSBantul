@@ -1,0 +1,64 @@
+D1 Laki-Laki	D1 Perempuan	D2 Laki-Laki	D2 Perempuan	D3 Laki-Laki	D3 Perempuan	D4 Laki-Laki	D4 Perempuan
+Sekretariat DPRD	0	0	0	0	1	1	0	0
+Sekretariat Komisi Pemilihan Umum	0	0	0	0	0	0	0	0
+Sekretariat Badan Narkotika Nasional	0	0	0	0	2	0	0	0
+Bagian Umum	0	0	0	0	1	0	1	0
+Dinas Kebudayaan	0	0	0	0	3	4	0	1
+Dinas Kependudukan dan Pencatatan Sipil	0	0	0	0	1	7	1	0
+Dinas Kesehatan	2	14	0	0	75	465	18	63
+Dinas Komunikasi dan Informatika	0	0	1	0	2	2	3	0
+Dinas Koperasi, Usaha Kecil, Menengah dan Perindustrian	0	0	0	0	1	1	0	1
+Dinas Lingkungan Hidup	0	0	0	0	0	2	0	0
+Dinas Pariwisata	0	0	0	0	2	6	0	1
+Dinas Pekerjaan Umum, Perumahan dan Kawasan Permukiman	0	0	0	0	3	1	0	0
+Dinas Penanaman Modal dan Pelayanan Terpadu	0	0	0	0	1	2	0	0
+Dinas Pendidikan, Pemuda dan Olahraga	7	8	119	181	41	62	1	1
+Dinas Pengendalian Penduduk, Keluarga Berencana, Pemberdayaan Masyarakat dan Desa	0	0	0	0	2	3	1	0
+Dinas Perdagangan	0	0	0	0	0	1	0	0
+Dinas Perhubungan	0	0	3	1	0	0	2	1
+Dinas Perpustakaan dan Kearsipan	1	0	2	0	6	6	0	0
+Dinas Pertanahan dan Tata Ruang	0	0	0	0	2	2	0	0
+Dinas Pertanian, Pangan, Kelautan dan Perikanan	1	0	0	0	5	6	5	2
+Dinas Sosial, Pemberdayaan Perempuan dan Perlindungan Anak	1	0	0	0	1	0	1	0
+Dinas Tenaga Kerja dan Transmigrasi	0	0	0	0	1	5	0	0
+Inspektorat	0	0	0	0	1	3	1	0
+Sekretaris Daerah	0	0	0	0	0	0	0	0
+Asisten Pemerintahan	0	0	0	0	0	0	0	0
+Asisten Sumberdaya dan Kesejahteraan Rakyat	0	0	0	0	0	0	0	0
+Asisten Perekonomian dan Pembangunan	0	0	0	0	0	0	0	0
+Staf Ahli Bupati Bidang Ekonomi, Keuangan dan Pembangunan	0	0	0	0	0	0	0	0
+Staf Ahli Bupati Bidang Politik, Hukum dan Pemerintahan	0	0	0	0	0	0	0	0
+Staf Ahli Bupati Bidang Sumber Daya Manusia dan Kemasyarakatan	0	0	0	0	0	0	0	0
+Badan Kepegawaian, Pendidikan dan Pelatihan	0	0	0	0	4	3	1	3
+Badan Keuangan dan Aset Daerah	0	0	0	0	6	10	1	0
+Badan Penanggulangan Bencana Daerah	0	0	0	0	2	0	2	0
+Badan Perencanaan Pembangunan Daerah	1	0	0	0	2	3	0	0
+Bagian Administrasi Kesejahteraan Rakyat	0	0	0	0	2	0	0	0
+Bagian Administrasi Pembangunan	0	0	0	0	1	0	1	0
+Bagian Administrasi Pemerintahan Desa	0	0	0	0	0	1	1	0
+Bagian Administrasi Pemerintahan	0	0	0	0	0	1	0	0
+Bagian Administrasi Perekonomian	0	0	0	0	0	2	0	0
+Bagian Hubungan Masyarakat dan Protokol	1	0	0	0	0	2	0	0
+Bagian Hukum	0	0	0	1	0	1	1	0
+Bagian Layanan Pengadaan Barang dan Jasa	0	0	0	0	0	2	0	0
+Bagian Organisasi	0	0	0	0	0	0	1	0
+Kantor Kesatuan Bangsa dan Politik	0	0	0	0	0	0	0	1
+Kecamatan Bambanglipuro	0	0	0	0	0	0	0	0
+Kecamatan Banguntapan	0	0	0	0	1	0	0	0
+Kecamatan Bantul	0	0	0	1	1	0	1	0
+Kecamatan Dlingo	0	0	0	0	0	0	1	0
+Kecamatan Imogiri	0	0	0	0	1	1	0	1
+Kecamatan Jetis	0	0	0	0	1	0	1	0
+Kecamatan Kasihan	0	0	0	0	1	0	0	1
+Kecamatan Kretek	0	0	0	0	0	0	0	0
+Kecamatan Pajangan	0	0	0	0	0	0	0	0
+Kecamatan Pandak	0	0	0	0	1	1	1	0
+Kecamatan Piyungan	0	0	0	0	0	0	0	0
+Kecamatan Pleret	0	0	0	0	0	0	0	1
+Kecamatan Pundong	0	0	0	0	0	0	1	0
+Kecamatan Sanden	0	0	0	0	1	1	1	0
+Kecamatan Sedayu	0	0	0	0	2	0	0	0
+Kecamatan Sewon	0	0	0	0	1	0	1	0
+Kecamatan Srandakan	0	0	0	0	0	0	0	0
+Rumah Sakit Umum Daerah Panembahan Senopati	0	2	0	1	44	198	7	25
+Satuan Polisi Pamong Praja	0	0	0	0	1	1	0	0
